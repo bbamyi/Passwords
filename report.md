@@ -14,7 +14,7 @@ Session control: tmux sessions used for detached background runs; nice -n 15 use
 
 Results — cracked passwords (authoritative)
 
-Cracked entries (saved to cracked_list.txt and in john.pot):
+Cracked entries 
 
 user6 → forwarding
 
